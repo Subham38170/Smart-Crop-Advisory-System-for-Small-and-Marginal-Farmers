@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="default_notification_channel_id">Global</string>
+
+    <string name="app_name">Krishi Mitra</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="language">English</string>
+    <string name="name">Name</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="pin_no">Pin No.</string>
+    <string name="village">Village</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="already_have_account">Already have an account ?</string>
+    <string name="dont_have_account">Don t have an account ?</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_mobile">Enter Mobile Number</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="otp_sent">OTP has been sent</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="logout">Logout</string>
+
+
+    <string name="error_invalid_mobile">Invalid Mobile Number</string>
+    <string name="error_invalid_otp">Invalid OTP</string>
+    <string name="error_required">This field is required</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="try_again">Please try again</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="create">Create</string>
+
+
+    <string name="enter_a_valid_gmail_address">Enter a valid Gmail address</string>
+    <string name="password_must_be_8_characters_long">Password must be 8 characters long</string>
+
+    <string name="crops">Crops</string>
+    <string name="fruits">Fruits</string>
+    <string name="grains">Grains</string>
+    <string name="pulses">Pulses</string>
+    <string name="oilseeds">Oilseeds</string>
+    <string name="spices">Spices</string>
+    <string name="cash_crops">Cash Crops</string>
+    <string name="plantation_crops">Plantation Crops</string>
+    <string name="fodder_crops">Fodder Crops</string>
+
+    <string name="krishi_bazar">Krishi Bazar</string>
+    <string name="search_for_crops">Search for crops</string>
+
+
+    <string name="disease_prediction">Disease Prediction</string>
+    <string name="mandi_price">Mandi Price</string>
+    <string name="agri_news">Agri News</string>
+    <string name="predict">Predict</string>
+    <string name="disease">Disease</string>
+    <string name="confidence">Confidence</string>
+    <string name="description">Description</string>
+    <string name="treatement">Treatment</string>
+    <string name="precautions">Precautions</string>
+    <string name="search_crops">Search crops</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="variety">Variety</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="crop_data">Crop Data</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="remoge">Remove</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="schemes">Schemes</string>
+    <string name="read_more">Read more</string>
+
+
+    <string name="recommended_treatment_is">The recommended treatment is</string>
+    <string name="recommended_precautions_are">The recommended precautions are</string>
+    <string name="here_is_description">Here is the description</string>
+    <string name="the_predicted_disease_is">The predicted disease is </string>
+    <string name="click_photo">Click photo</string>
+
+
+    <string name="just_now">just now</string>
+    <string name="m_ago">m ago</string>
+    <string name="d_ago">days ago</string>
+    <string name="h_ago">h ago</string>
+    <string name="you">You</string>
+    <string name="krishi_dost">Krishi Dost</string>
+    <string name="feedback">Your experience (Feedback)</string>
+
+
+    <string name="feedback_description">What did you like ?</string>
+    <string name="feedback_improvement">What can be improved ?</string>
+    <string name="feedback_issues">Are there any issues with this app ?</string>
+    <string name="feedback_rating">Rate your experience.</string>
+    <string name="feedback_good">Good</string>
+    <string name="feedback_bad">Bad</string>
+    <string name="feedback_avg">Okay</string>
+    <string name="feedback_empty">Feedback is empty</string>
+    <string name="feedback_select_rating">Select your rating</string>
+
+
+    <string name="sandy_soil">Sandy</string>
+    <string name="loamy_soil">Loamy</string>
+    <string name="clayed_soil">Clayed</string>
+    <string name="black_soil">Black</string>
+    <string name="red_soil">Red</string>
+
+
+    <string name="low_moistured">Low Moisture</string>
+    <string name="medium_moistured">Medium Moisture</string>
+    <string name="high_moistured">High Moisture</string>
+
+
+    <string name="legumes">Legumes (Pulses, Soyabean)</string> <string name="cereals">Cereals (Rice, Wheat, Maize)</string>
+    <string name="oil_seeds">Oilseeds</string>
+    <string name="others">Others</string>
+
+    <string name="which_type_of_soil">Which type of soil is there in your field?</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+
+    <string name="how_wet_your_soil_is">How wet is the soil in your field?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="previous_crop">Which crop did you grow previously on this field?</string>
+    <string name="manure_compost">Do you use Farmyard Manure/Compost?</string>
+    <string name="rainfed">Rainfed</string>
+    <string name="canal">Canal</string>
+    <string name="borewell">Borewell</string>
+
+    <string name="irrigation_type">Which type of irrigation do you use?</string>
+    <string name="low">Low</string>
+
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+
+    <string name="rain_fall_level">What is the rainfall level in your area?</string>
+    <string name="current_crop_type">Which crop are you growing currently?</string>
+    <string name="recommend">Recommend</string>
+    <string name="maize">Maize</string>
+    <string name="wheat">Wheat</string>
+    <string name="rice">Rice</string>
+
+    <string name="fertilizer_recommendation">Fertilizer Recommendation</string>
+    <string name="crop_recommendation">Suggested Crops for You</string>
+</resources>

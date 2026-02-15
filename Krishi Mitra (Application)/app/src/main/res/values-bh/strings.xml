@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">कृषि मित्तर</string>
+    <string name="mobile_no">मोबाइल नम्बर</string>
+    <string name="language">भोजपुरी</string>
+    <string name="name">नाम</string>
+    <string name="state">राज</string>
+    <string name="district">जिला</string>
+    <string name="pin_no">पिन नम्बर</string>
+    <string name="village">गाँव</string>
+    <string name="login">लॉगिन करीं</string>
+    <string name="signup">साइन अप करीं</string>
+    <string name="already_have_account">पहिले से अकाउंट बा?</string>
+    <string name="dont_have_account">अकाउंट नइखे?</string>
+    <string name="welcome">स्वागत बा</string>
+    <string name="enter_mobile">मोबाइल नम्बर डालीं</string>
+    <string name="enter_name">नाम डालीं</string>
+    <string name="otp_sent">ओटीपी भेज दिहल गइल बा</string>
+    <string name="verify_otp">ओटीपी जाँचल जाव</string>
+    <string name="resend_otp">फेनु ओटीपी भेजीं</string>
+    <string name="logout">लॉगआउट करीं</string>
+
+
+    <string name="error_invalid_mobile">गलत मोबाइल नम्बर</string>
+    <string name="error_invalid_otp">गलत ओटीपी</string>
+    <string name="error_required">ई जगह भरल जरूरी बा</string>
+    <string name="no_internet">इंटरनेट कनेक्शन नइखे</string>
+    <string name="try_again">मेहरबानी कऽके फेनु कोसिस करीं</string>
+    <string name="welcome_user">स्वागत बा, %1$s!</string>
+
+    <string name="password">पासवर्ड</string>
+    <string name="email">ईमेल</string>
+    <string name="create">बनाईं</string>
+
+
+    <string name="enter_a_valid_gmail_address">सही जीमेल एड्रेस डालीं</string>
+    <string name="password_must_be_8_characters_long">पासवर्ड 8 गो अक्षर के होखे के चाहीं</string>
+
+    <string name="crops">फसल</string>
+    <string name="fruits">फल</string>
+    <string name="grains">अनाज</string>
+    <string name="pulses">दाल</string>
+    <string name="oilseeds">तेलबिहन</string>
+    <string name="spices">मसाला</string>
+    <string name="cash_crops">नकदी फसल</string>
+    <string name="plantation_crops">बगइचा के फसल</string>
+    <string name="fodder_crops">जानवरन के चारा</string>
+
+    <string name="krishi_bazar">खेती बाजार</string>
+    <string name="search_for_crops">फसल खोजीं</string>
+
+
+    <string name="disease_prediction">बेमारी के अनुमान</string>
+    <string name="mandi_price">मंडी के दाम</string>
+    <string name="agri_news">खेती के खबर</string>
+    <string name="predict">अनुमान लगाईं</string>
+    <string name="disease">बेमारी</string>
+    <string name="confidence">भरवसा</string>
+    <string name="description">जानकारी</string>
+    <string name="treatement">इलाज</string>
+    <string name="precautions">सावधानी</string>
+    <string name="search_crops">फसल खोजीं</string>
+    <string name="buy">किनीं</string>
+    <string name="sell">बेचीं</string>
+    <string name="variety">किस्म</string>
+    <string name="price">दाम</string>
+    <string name="quantity">मात्रा</string>
+    <string name="crop_data">फसल के जानकारी</string>
+    <string name="upload_image">फोटो अपलोड करीं</string>
+    <string name="cancel">काट दीं</string>
+    <string name="submit">जमा करीं</string>
+    <string name="update">अपडेट करीं</string>
+    <string name="remoge">हटा दीं</string>
+    <string name="recently_added">हालही में जोरल गइल</string>
+    <string name="schemes">सरकारी योजना</string>
+    <string name="read_more">आउर पढ़ीं</string>
+
+
+    <string name="recommended_treatment_is">बतावल गइल इलाज इ बा</string>
+    <string name="recommended_precautions_are">बतावल गइल सावधानी इ बा</string>
+    <string name="here_is_description">जानकारी इहाँ बा</string>
+    <string name="the_predicted_disease_is">अनुमानित बेमारी इ बा </string>
+    <string name="click_photo">फोटो खींचीं</string>
+
+
+    <string name="just_now">एह घरी</string>
+    <string name="m_ago">मिनट पहिले</string>
+    <string name="d_ago">दिन पहिले</string>
+    <string name="h_ago">घंटा पहिले</string>
+    <string name="you">रउआ</string>
+    <string name="krishi_dost">कृषि दोस्त</string>
+    <string name="feedback">रउआ के अनुभव (प्रतिक्रिया)</string>
+
+
+    <string name="feedback_description">रउआ का पसंद आइल आ का सुधारे के चाहीं</string>
+    <string name="feedback_improvement">का सुधारे के बा?</string>
+    <string name="feedback_issues">ई एप्लीकेशन में कवनो समस्या बा?</string>
+    <string name="feedback_rating">अपना अनुभव के रेटिंग दीं।</string>
+    <string name="feedback_good">नीमन</string>
+    <string name="feedback_bad">खराब</string>
+    <string name="feedback_avg">ठीक बा</string>
+    <string name="feedback_empty">प्रतिक्रिया खाली बा</string>
+    <string name="feedback_select_rating">रेटिंग चुनीं</string>
+
+
+    <string name="sandy_soil">बलुआर माटी</string>
+    <string name="loamy_soil">दोमट माटी</string>
+    <string name="clayed_soil">चीका माटी</string>
+    <string name="black_soil">करिया माटी</string>
+    <string name="red_soil">लाल माटी</string>
+
+
+    <string name="low_moistured">कम नमी</string>
+    <string name="medium_moistured">बीच के नमी</string>
+    <string name="high_moistured">बेसी नमी</string>
+
+
+    <string name="legumes">दलहन (दाल, सोयाबीन)</string>
+    <string name="cereals">अनाज (धान, गेहूँ, मक्का)</string>
+    <string name="oil_seeds">तेलबिहन</string>
+    <string name="others">बाकी</string>
+
+    <string name="which_type_of_soil">रउआ के खेत में केतना तरह के माटी बा?</string>
+    <string name="next">आगे</string>
+    <string name="prev">पिछला</string>
+
+    <string name="how_wet_your_soil_is">रउआ के खेत के माटी केतना भीजल बा?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">ना</string>
+
+    <string name="previous_crop">ई खेत में रउआ एकरा पहिले का फसल लगवले रहनीं?</string>
+    <string name="manure_compost">रउआ खेत के गोबर/खाद इस्तेमाल करेनीं?</string>
+    <string name="rainfed">बरखा पर निर्भर</string>
+    <string name="canal">नहर</string>
+    <string name="borewell">बोरवेल</string>
+
+    <string name="irrigation_type">रउआ केतना तरह के सिंचाई इस्तेमाल करेनीं?</string>
+    <string name="low">कम</string>
+
+    <string name="medium">बीच के</string>
+    <string name="high">बेसी</string>
+
+    <string name="rain_fall_level">रउआ के इलाका में बरखा के स्तर का बा?</string>
+    <string name="current_crop_type">रउआ वर्तमान में कवन फसल लगावत बानी?</string>
+    <string name="recommend">सलाह दीं</string>
+    <string name="maize">मक्का</string>
+    <string name="wheat">गेहूँ</string>
+    <string name="rice">धान</string>
+
+    <string name="fertilizer_recommendation">खाद के सलाह</string>
+    <string name="crop_recommendation">रउआ खातिर बतावल गइल फसल</string>
+</resources>

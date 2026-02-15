@@ -1,0 +1,321 @@
+[
+   {
+      "state": "Andhra Pradesh",
+      "districts": [
+         "Chittor",
+         "West Godavari",
+         "Guntur",
+         "Krishna",
+         "Nellore",
+         "Anantapur",
+         "East Godavari",
+         "Kurnool",
+         "Visakhapatnam"
+      ]
+   },
+   {
+      "state": "Chandigarh",
+      "districts": ["Chandigarh"]
+   },
+   {
+      "state": "Chattisgarh",
+      "districts": ["Koria", "Narayanpur", "Surajpur"]
+   },
+   {
+      "state": "Gujarat",
+      "districts": [
+         "Ahmedabad",
+         "Amreli",
+         "Anand",
+         "Bharuch",
+         "Gandhinagar",
+         "Jamnagar",
+         "Navsari",
+         "Rajkot",
+         "Surat",
+         "Surendranagar",
+         "Chhota Udaipur",
+         "Junagarh",
+         "Kheda",
+         "Mehsana",
+         "Kachchh",
+         "Sabarkantha",
+         "Narmada"
+      ]
+   },
+   {
+      "state": "Haryana",
+      "districts": [
+         "Ambala",
+         "Fatehabad",
+         "Gurgaon",
+         "Hissar",
+         "Kurukshetra",
+         "Mahendragarh-Narnaul",
+         "Rewari",
+         "Rohtak",
+         "Sonipat",
+         "Yamuna Nagar",
+         "Mewat",
+         "Panchkula",
+         "Palwal"
+      ]
+   },
+   {
+      "state": "Himachal Pradesh",
+      "districts": [
+         "Bilaspur",
+         "Hamirpur",
+         "Kangra",
+         "Kullu",
+         "Shimla",
+         "Sirmore",
+         "Una",
+         "Mandi",
+         "Chamba",
+         "Solan"
+      ]
+   },
+   {
+      "state": "Jammu and Kashmir",
+      "districts": ["Jammu", "Kathua", "Srinagar"]
+   },
+   {
+      "state": "Karnataka",
+      "districts": [
+         "Bangalore",
+         "Chamrajnagar",
+         "Chikmagalur",
+         "Dharwad",
+         "Chitradurga",
+         "Karwar(Uttar Kannad)"
+      ]
+   },
+   {
+      "state": "Kerala",
+      "districts": [
+         "Alappuzha",
+         "Ernakulam",
+         "Idukki",
+         "Kannur",
+         "Kasargod",
+         "Kollam",
+         "Kottayam",
+         "Kozhikode(Calicut)",
+         "Malappuram",
+         "Palakad",
+         "Thiruvananthapuram",
+         "Wayanad",
+         "Thirssur",
+         "Pathanamthitta"
+      ]
+   },
+   {
+      "state": "Madhya Pradesh",
+      "districts": [
+         "Alirajpur",
+         "Badwani",
+         "Dhar",
+         "Indore",
+         "Katni",
+         "Rajgarh",
+         "Ratlam",
+         "Satna",
+         "Seoni",
+         "Shivpuri",
+         "Dewas",
+         "Jabalpur",
+         "Khandwa",
+         "Mandla",
+         "Neemuch",
+         "Rewa",
+         "Sheopur",
+         "Anupur",
+         "Balaghat",
+         "Bhopal",
+         "Chhatarpur",
+         "Sagar",
+         "Shajapur",
+         "Damoh",
+         "Dindori",
+         "Gwalior",
+         "Khargone",
+         "Raisen",
+         "Datia"
+      ]
+   },
+   {
+      "state": "Maharashtra",
+      "districts": [
+         "Ahmednagar",
+         "Jalgaon",
+         "Nagpur",
+         "Pune",
+         "Satara",
+         "Raigad",
+         "Sholapur",
+         "Thane"
+      ]
+   },
+   {
+      "state": "Nagaland",
+      "districts": ["Dimapur"]
+   },
+   {
+      "state": "Odisha",
+      "districts": [
+         "Bargarh",
+         "Bolangir",
+         "Boudh",
+         "Cuttack",
+         "Dhenkanal",
+         "Kalahandi",
+         "Sundergarh",
+         "Mayurbhanja",
+         "Balasore"
+      ]
+   },
+   {
+      "state": "Punjab",
+      "districts": [
+         "Amritsar",
+         "Hoshiarpur",
+         "Jalandhar",
+         "kapurthala",
+         "Ludhiana",
+         "Muktsar",
+         "Patiala",
+         "Sangrur",
+         "Tarntaran"
+      ]
+   },
+   {
+      "state": "Rajasthan",
+      "districts": [
+         "Alwar",
+         "Ganganagar",
+         "Hanumangarh",
+         "Jaipur Rural",
+         "Jalore",
+         "Tonk",
+         "Churu",
+         "Deeg",
+         "Dungarpur"
+      ]
+   },
+   {
+      "state": "Tamil Nadu",
+      "districts": [
+         "Ariyalur",
+         "Chengalpattu",
+         "Coimbatore",
+         "Cuddalore",
+         "Dharmapuri",
+         "Dindigul",
+         "Erode",
+         "Kallakuruchi",
+         "Kancheepuram",
+         "Karur",
+         "Krishnagiri",
+         "Madurai",
+         "Nagapattinam",
+         "Nagercoil (Kannyiakumari)",
+         "Namakkal",
+         "Perambalur",
+         "Pudukkottai",
+         "Ramanathapuram",
+         "Ranipet",
+         "Salem",
+         "Sivaganga",
+         "Tenkasi",
+         "Thanjavur",
+         "The Nilgiris",
+         "Theni",
+         "Thiruchirappalli",
+         "Thirunelveli",
+         "Thirupathur",
+         "Thirupur",
+         "Thiruvannamalai",
+         "Thiruvarur",
+         "Thiruvellore",
+         "Tuticorin",
+         "Vellore",
+         "Villupuram",
+         "Virudhunagar"
+      ]
+   },
+   {
+      "state": "Telangana",
+      "districts": [
+         "Hyderabad",
+         "Karimnagar",
+         "Khammam",
+         "Nalgonda",
+         "Mahbubnagar",
+         "Medak",
+         "Ranga Reddy"
+      ]
+   },
+   {
+      "state": "Tripura",
+      "districts": ["Dhalai", "North Tripura"]
+   },
+   {
+      "state": "Uttar Pradesh",
+      "districts": [
+         "Agra",
+         "Aligarh",
+         "Amethi",
+         "Badaun",
+         "Bahraich",
+         "Balrampur",
+         "Bulandshahar",
+         "Etah",
+         "Etawah",
+         "Firozabad",
+         "Ghazipur",
+         "Hathras",
+         "Jalaun (Orai)",
+         "Khiri (Lakhimpur)",
+         "Maharajganj",
+         "Mainpuri",
+         "Mathura",
+         "Mau(Maunathbhanjan)",
+         "Meerut",
+         "Mirzapur",
+         "Muzaffarnagar",
+         "Prayagraj",
+         "Raebarelli",
+         "Rampur",
+         "Saharanpur",
+         "Sambhal",
+         "Sant Kabir Nagar",
+         "Shamli",
+         "Shravasti",
+         "Siddharth Nagar",
+         "Sitapur",
+         "Deoria",
+         "Kanpur Dehat",
+         "Lalitpur",
+         "Unnao"
+      ]
+   },
+   {
+      "state": "Uttrakhand",
+      "districts": [
+         "Dehradoon",
+         "Garhwal (Pauri)",
+         "Haridwar",
+         "UdhamSinghNagar",
+         "Champawat"
+      ]
+   },
+   {
+      "state": "West Bengal",
+      "districts": ["Darjeeling", "Medinipur(E)", "North 24 Parganas"]
+   },
+   {
+      "state": "Bihar",
+      "districts": ["Banka"]
+   }
+]

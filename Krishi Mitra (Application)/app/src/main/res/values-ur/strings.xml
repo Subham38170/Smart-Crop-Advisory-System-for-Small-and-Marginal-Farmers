@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">کرشی مترا</string>
+    <string name="mobile_no">موبائل نمبر</string>
+    <string name="language">انگریزی</string>
+    <string name="name">نام</string>
+    <string name="state">ریاست</string>
+    <string name="district">ضلع</string>
+    <string name="pin_no">پن نمبر</string>
+    <string name="village">گاؤں</string>
+    <string name="login">لاگ ان کریں</string>
+    <string name="signup">سائن اپ کریں</string>
+    <string name="already_have_account">پہلے سے ہی اکاؤنٹ ہے؟</string>
+    <string name="dont_have_account">اکاؤنٹ نہیں ہے؟</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="enter_mobile">موبائل نمبر درج کریں</string>
+    <string name="enter_name">نام درج کریں</string>
+    <string name="otp_sent">OTP بھیج دیا گیا ہے</string>
+    <string name="verify_otp">OTP کی تصدیق کریں</string>
+    <string name="resend_otp">OTP دوبارہ بھیجیں</string>
+    <string name="logout">لاگ آؤٹ کریں</string>
+
+
+    <string name="error_invalid_mobile">غلط موبائل نمبر</string>
+    <string name="error_invalid_otp">غلط OTP</string>
+    <string name="error_required">یہ فیلڈ ضروری ہے</string>
+    <string name="no_internet">انٹرنیٹ کنکشن نہیں ہے</string>
+    <string name="try_again">براہ کرم دوبارہ کوشش کریں</string>
+    <string name="welcome_user">خوش آمدید، %1$s!</string>
+
+    <string name="password">پاس ورڈ</string>
+    <string name="email">ای میل</string>
+    <string name="create">بنائیں</string>
+
+
+    <string name="enter_a_valid_gmail_address">ایک درست Gmail ایڈریس درج کریں</string>
+    <string name="password_must_be_8_characters_long">پاس ورڈ کم از کم 8 حروف کا ہونا چاہیے</string>
+
+    <string name="crops">فصلیں</string>
+    <string name="fruits">پھل</string>
+    <string name="grains">اناج</string>
+    <string name="pulses">دالیں</string>
+    <string name="oilseeds">تیل کے بیج</string>
+    <string name="spices">مصالحہ جات</string>
+    <string name="cash_crops">نقدی فصلیں</string>
+    <string name="plantation_crops">پلانٹیشن فصلیں</string>
+    <string name="fodder_crops">چارے کی فصلیں</string>
+
+    <string name="krishi_bazar">کرشی بازار</string>
+    <string name="search_for_crops">فصلوں کی تلاش کریں</string>
+
+
+    <string name="disease_prediction">بیماری کی پیش گوئی</string>
+    <string name="mandi_price">منڈی کی قیمت</string>
+    <string name="agri_news">زرعی خبریں</string>
+    <string name="predict">پیش گوئی کریں</string>
+    <string name="disease">بیماری</string>
+    <string name="confidence">اعتماد</string>
+    <string name="description">تفصیل</string>
+    <string name="treatement">علاج</string>
+    <string name="precautions">احتیاطی تدابیر</string>
+    <string name="search_crops">فصلوں کی تلاش کریں</string>
+    <string name="buy">خریدیں</string>
+    <string name="sell">بیچیں</string>
+    <string name="variety">قسم</string>
+    <string name="price">قیمت</string>
+    <string name="quantity">مقدار</string>
+    <string name="crop_data">فصل کا ڈیٹا</string>
+    <string name="upload_image">تصویر اپ لوڈ کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="submit">جمع کرائیں</string>
+    <string name="update">اپ ڈیٹ کریں</string>
+    <string name="remoge">ہٹائیں</string>
+    <string name="recently_added">حال ہی میں شامل کیا گیا</string>
+    <string name="schemes">سکیمیں</string>
+    <string name="read_more">مزید پڑھیں</string>
+
+
+    <string name="recommended_treatment_is">تجویز کردہ علاج یہ ہے</string>
+    <string name="recommended_precautions_are">تجویز کردہ احتیاطی تدابیر یہ ہیں</string>
+    <string name="here_is_description">یہاں تفصیل ہے</string>
+    <string name="the_predicted_disease_is">پیش گوئی کی گئی بیماری یہ ہے </string>
+    <string name="click_photo">تصویر کھینچیں</string>
+
+
+    <string name="just_now">ابھی</string>
+    <string name="m_ago">منٹ پہلے</string>
+    <string name="d_ago">دن پہلے</string>
+    <string name="h_ago">گھنٹے پہلے</string>
+    <string name="you">آپ</string>
+    <string name="krishi_dost">کرشی دوست</string>
+    <string name="feedback">آپ کا تجربہ (رائے)</string>
+
+
+    <string name="feedback_description">آپ کو کیا پسند آیا اور کیا بہتر ہونا چاہیے</string>
+    <string name="feedback_improvement">کیا بہتر ہو سکتا ہے؟</string>
+    <string name="feedback_issues">کیا اس ایپ میں کوئی مسائل ہیں؟</string>
+    <string name="feedback_rating">اپنے تجربے کی درجہ بندی کریں۔</string>
+    <string name="feedback_good">اچھا</string>
+    <string name="feedback_bad">برا</string>
+    <string name="feedback_avg">ٹھیک ہے</string>
+    <string name="feedback_empty">رائے خالی ہے</string>
+    <string name="feedback_select_rating">اپنی درجہ بندی منتخب کریں</string>
+
+
+    <string name="sandy_soil">ریتلی</string>
+    <string name="loamy_soil">دومٹی</string>
+    <string name="clayed_soil">چکنی</string>
+    <string name="black_soil">کالی</string>
+    <string name="red_soil">سرخ</string>
+
+
+    <string name="low_moistured">کم نمی</string>
+    <string name="medium_moistured">درمیانی نمی</string>
+    <string name="high_moistured">زیادہ نمی</string>
+
+
+    <string name="legumes">پھلیاں (دالیں، سویابین)</string>
+    <string name="cereals">اناج (چاول، گندم، مکئی)</string>
+    <string name="oil_seeds">تیل کے بیج</string>
+    <string name="others">دیگر</string>
+    <string name="vegetables">سبزیاں</string>
+
+
+    <string name="which_type_of_soil">آپ کے کھیت میں کس قسم کی مٹی ہے؟</string>
+    <string name="next">اگلا</string>
+    <string name="prev">پچھلا</string>
+
+    <string name="how_wet_your_soil_is">آپ کے کھیت کی مٹی کتنی گیلی ہے؟</string>
+    <string name="yes">ہاں</string>
+    <string name="no">نہیں</string>
+
+    <string name="previous_crop">آپ نے اس کھیت میں پہلے کون سی فصل اگائی تھی؟</string>
+    <string name="manure_compost">کیا آپ گائے کا گوبر/کمپوسٹ استعمال کرتے ہیں؟</string>
+    <string name="rainfed">بارانی</string>
+    <string name="canal">نہر</string>
+    <string name="borewell">بورویل</string>
+
+    <string name="irrigation_type">آپ کس قسم کی آبپاشی استعمال کرتے ہیں؟</string>
+    <string name="low">کم</string>
+
+    <string name="medium">درمیانہ</string>
+    <string name="high">زیادہ</string>
+
+    <string name="rain_fall_level">آپ کے علاقے میں بارش کی سطح کیا ہے؟</string>
+    <string name="current_crop_type">آپ فی الحال کون سی فصل اگا رہے ہیں؟</string>
+    <string name="recommend">سفارش کریں</string>
+    <string name="maize">مکئی</string>
+    <string name="wheat">گندم</string>
+    <string name="rice">چاول</string>
+
+    <string name="fertilizer_recommendation">کھاد کی سفارش</string>
+    <string name="crop_recommendation">آپ کے لیے تجویز کردہ فصلیں</string>
+</resources>

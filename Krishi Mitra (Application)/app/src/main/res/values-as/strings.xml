@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+
+    <string name="app_name">কৃষি মিত্ৰ</string>
+    <string name="mobile_no">ম বাইল নম্বৰ</string>
+    <string name="language">অসমীয়া</string>
+    <string name="name">নাম</string>
+    <string name="state">ৰাজ্য</string>
+    <string name="district">জিলা</string>
+    <string name="pin_no">পিন নম্বৰ</string>
+    <string name="village">গাঁও</string>
+    <string name="login">প্ৰৱেশ কৰক</string>
+    <string name="signup">পঞ্জীয়ন কৰক</string>
+    <string name="already_have_account">ইতিমধ্যে একাউণ্ট আছে?</string>
+    <string name="dont_have_account">একাউণ্ট নাই?</string>
+    <string name="welcome">স্বাগতম</string>
+    <string name="enter_mobile">ম বাইল নম্বৰ দিয়ক</string>
+    <string name="enter_name">নাম দিয়ক</string>
+    <string name="otp_sent">OTP প্ৰেৰণ কৰা হৈছে</string>
+    <string name="verify_otp">OTP পৰীক্ষা কৰক</string>
+    <string name="resend_otp">পুনৰ OTP পঠিয়াওক</string>
+    <string name="logout">প্ৰস্থান কৰক</string>
+
+
+    <string name="error_invalid_mobile">অবৈধ ম বাইল নম্বৰ</string>
+    <string name="error_invalid_otp">অবৈধ OTP</string>
+    <string name="error_required">এই স্থান পূৰণ কৰাটো বাধ্যতামূলক</string>
+    <string name="no_internet">ইণ্টাৰনেট সংযোগ নাই</string>
+    <string name="try_again">অনুগ্রহ কৰি পুনৰ চেষ্টা কৰক</string>
+    <string name="welcome_user">স্বাগতম, %1$s!</string>
+
+    <string name="password">পাছৱৰ্ড</string>
+    <string name="email">ইমেইল</string>
+    <string name="create">সৃষ্টি কৰক</string>
+
+
+    <string name="enter_a_valid_gmail_address">এটা বৈধ জিমেইল ঠিকনা দিয়ক</string>
+    <string name="password_must_be_8_characters_long">পাছৱৰ্ড নূন্যতম ৮টা আখৰৰ হ ব লাগিব</string>
+
+    <string name="crops">শস্য</string>
+    <string name="fruits">ফল</string>
+    <string name="grains">শস্য</string>
+    <string name="pulses">মাহজাতীয় শস্য</string>
+    <string name="oilseeds">তৈলবীজ</string>
+    <string name="spices">মচলা</string>
+    <string name="cash_crops">নগদী শস্য</string>
+    <string name="plantation_crops">বাগিচা শস্য</string>
+    <string name="fodder_crops">পশুখাদ্য শস্য</string>
+
+    <string name="krishi_bazar">কৃষি বজাৰ</string>
+    <string name="search_for_crops">শস্যৰ সন্ধান কৰক</string>
+
+
+    <string name="disease_prediction">ৰোগৰ ভৱিষ্যতবাণী</string>
+    <string name="mandi_price">মandi মূল্য</string>
+    <string name="agri_news">কৃষি সংবাদ</string>
+    <string name="predict">ভৱিষ্যতবাণী কৰক</string>
+    <string name="disease">ৰোগ</string>
+    <string name="confidence">নিৰ্ভৰযোগ্যতা</string>
+    <string name="description">বিৱৰণ</string>
+    <string name="treatement">চিকিৎসা</string>
+    <string name="precautions">সাৱধানতা</string>
+    <string name="search_crops">শস্যৰ সন্ধান কৰক</string>
+    <string name="buy">কিনিব</string>
+    <string name="sell">বিক্ৰী কৰিব</string>
+    <string name="variety">প্ৰকাৰ</string>
+    <string name="price">মূল্য</string>
+    <string name="quantity">পৰিমাণ</string>
+    <string name="crop_data">শস্যৰ তথ্য</string>
+    <string name="upload_image">ছবি আপলোড কৰক</string>
+    <string name="cancel">বাতিল কৰক</string>
+    <string name="submit">দাখিল কৰক</string>
+    <string name="update">আপডেট কৰক</string>
+    <string name="remoge">অপসাৰণ কৰক</string>
+    <string name="recently_added">শেহতীয়াকৈ যোগ কৰা</string>
+    <string name="schemes">আঁচনিসমূহ</string>
+    <string name="read_more">আৰু পঢ়ক</string>
+
+
+    <string name="recommended_treatment_is">পৰামৰ্শ দিয়া চিকিৎসা হ ল</string>
+    <string name="recommended_precautions_are">পৰামৰ্শ দিয়া সাৱধানতাসমূহ হ ল</string>
+    <string name="here_is_description">এইয়া হৈছে বিৱৰণ</string>
+    <string name="the_predicted_disease_is">ভৱিষ্যতবাণী কৰা ৰোগটো হ ল </string>
+    <string name="click_photo">ছবি উঠাওক</string>
+
+
+    <string name="just_now">এইমাত্ৰ</string>
+    <string name="m_ago">মিনিট আগতে</string>
+    <string name="d_ago">দিন আগতে</string>
+    <string name="h_ago">ঘণ্টা আগতে</string>
+    <string name="you">আপুনি</string>
+    <string name="krishi_dost">কৃষি দোস্ত</string>
+    <string name="feedback">আপোনাৰ অভিজ্ঞতা (প্ৰতিক্ৰিয়া)</string>
+
+
+    <string name="feedback_description">আপুনি কি ভাল পালে আৰু কি উন্নত কৰিব লাগে</string>
+    <string name="feedback_improvement">কি উন্নত কৰিব পাৰি?</string>
+    <string name="feedback_issues">এই এপত কিবা সমস্যা আছেনে?</string>
+    <string name="feedback_rating">আপোনাৰ অভিজ্ঞতাক ৰেটিং দিয়ক।</string>
+    <string name="feedback_good">ভাল</string>
+    <string name="feedback_bad">বেয়া</string>
+    <string name="feedback_avg">ঠিক আছে</string>
+    <string name="feedback_empty">প্ৰতিক্ৰিয়া নাই</string>
+    <string name="feedback_select_rating">আপোনাৰ ৰেটিং বাছনি কৰক</string>
+
+
+    <string name="sandy_soil">বালিচহীয়া</string>
+    <string name="loamy_soil">পলসুৱা</string>
+    <string name="clayed_soil">চীপচিপীয়া</string>
+    <string name="black_soil">কলা</string>
+    <string name="red_soil">ৰঙা</string>
+
+
+    <string name="low_moistured">কম আৰ্দ্ৰতা</string>
+    <string name="medium_moistured">মধ্যমীয়া আৰ্দ্ৰতা</string>
+    <string name="high_moistured">বেছি আৰ্দ্ৰতা</string>
+
+
+    <string name="legumes">মাহজাতীয় শস্য (দাইল, চয়াবীন)</string>
+    <string name="cereals">শস্য (ধান, ঘেঁহু, মাকৈ)</string>
+    <string name="oil_seeds">তৈলবীজ</string>
+    <string name="others">অন্যান্য</string>
+
+    <string name="which_type_of_soil">আপোনাৰ মাটিত কি ধৰণৰ মাটি আছে?</string>
+    <string name="next">পৰৱৰ্তী</string>
+    <string name="prev">পূৰ্বৱৰ্তী</string>
+
+    <string name="how_wet_your_soil_is">আপোনাৰ মাটি কিমান তিতা?</string>
+    <string name="yes">হয়</string>
+    <string name="no">নহয়</string>
+
+    <string name="previous_crop">এই পথাৰত আপুনি আগতে কি শস্য কৰিছিল?</string>
+    <string name="manure_compost">আপুনি পথাৰত সাৰ/কম্পোষ্ট ব্যৱহাৰ কৰেনে?</string>
+    <string name="rainfed">বৰষুণৰ ওপৰত নিৰ্ভৰশীল</string>
+    <string name="canal">নলা</string>
+    <string name="borewell">বোৰৱেল</string>
+
+    <string name="irrigation_type">আপুনি কি ধৰণৰ জলসিঞ্চন ব্যৱহাৰ কৰে?</string>
+    <string name="low">কম</string>
+
+    <string name="medium">মধ্যমীয়া</string>
+    <string name="high">বেছি</string>
+
+    <string name="rain_fall_level">আপোনাৰ অঞ্চলত বৰষুণৰ পৰিমাণ কিমান?</string>
+    <string name="current_crop_type">বৰ্তমান আপুনি কি শস্য কৰি আছে?</string>
+    <string name="recommend">পৰামৰ্শ দিয়ক</string>
+    <string name="maize">মাকৈ</string>
+    <string name="wheat">ঘেঁহু</string>
+    <string name="rice">ধান</string>
+
+    <string name="fertilizer_recommendation">সাৰৰ পৰামৰ্শ</string>
+    <string name="crop_recommendation">আপোনাৰ বাবে পৰামৰ্শ দিয়া শস্য</string>
+</resources>

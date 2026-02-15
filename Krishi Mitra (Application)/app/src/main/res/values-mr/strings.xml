@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+
+    <string name="app_name">कृषी मित्र</string>
+    <string name="mobile_no">मोबाईल क्रमांक</string>
+    <string name="language">मराठी</string>
+    <string name="name">नाव</string>
+    <string name="state">राज्य</string>
+    <string name="district">जिल्हा</string>
+    <string name="pin_no">पिन क्रमांक</string>
+    <string name="village">गाव</string>
+    <string name="login">लॉगिन करा</string>
+    <string name="signup">नोंदणी करा</string>
+    <string name="already_have_account">तुमचे आधीच खाते आहे का?</string>
+    <string name="dont_have_account">खाते नाही?</string>
+    <string name="welcome">स्वागत आहे</string>
+    <string name="enter_mobile">मोबाईल नंबर टाका</string>
+    <string name="enter_name">नाव टाका</string>
+    <string name="otp_sent">ओटीपी (OTP) पाठवला आहे</string>
+    <string name="verify_otp">ओटीपी (OTP) सत्यापित करा</string>
+    <string name="resend_otp">ओटीपी (OTP) पुन्हा पाठवा</string>
+    <string name="logout">लॉगआउट</string>
+
+
+    <string name="error_invalid_mobile">अवैध मोबाईल क्रमांक</string>
+    <string name="error_invalid_otp">अवैध ओटीपी (OTP)</string>
+    <string name="error_required">हे क्षेत्र आवश्यक आहे</string>
+    <string name="no_internet">इंटरनेट कनेक्शन नाही</string>
+    <string name="try_again">कृपया पुन्हा प्रयत्न करा</string>
+    <string name="welcome_user">स्वागत आहे, %1$s!</string>
+
+    <string name="password">पासवर्ड</string>
+    <string name="email">ईमेल</string>
+    <string name="create">तयार करा</string>
+
+
+    <string name="enter_a_valid_gmail_address">एक वैध जीमेल पत्ता टाका</string>
+    <string name="password_must_be_8_characters_long">पासवर्ड किमान 8 वर्णांचा असणे आवश्यक आहे</string>
+
+    <string name="crops">पिके</string>
+    <string name="fruits">फळे</string>
+    <string name="grains">धान्ये</string>
+    <string name="pulses">डाळी</string>
+    <string name="oilseeds">तेल बियाणे</string>
+    <string name="spices">मसाले</string>
+    <string name="cash_crops">रोख पिके</string>
+    <string name="plantation_crops">मळ्यातील पिके</string>
+    <string name="fodder_crops">चारा पिके</string>
+
+    <string name="krishi_bazar">कृषी बाजार</string>
+    <string name="search_for_crops">पिकांसाठी शोधा</string>
+
+
+    <string name="disease_prediction">रोग अंदाज</string>
+    <string name="mandi_price">बाजारभाव</string>
+    <string name="agri_news">कृषी बातम्या</string>
+    <string name="predict">अंदाज लावा</string>
+    <string name="disease">रोग</string>
+    <string name="confidence">आत्मविश्वास</string>
+    <string name="description">वर्णन</string>
+    <string name="treatement">उपचार</string>
+    <string name="precautions">काळजी</string>
+    <string name="search_crops">पिके शोधा</string>
+    <string name="buy">खरेदी करा</string>
+    <string name="sell">विक्री करा</string>
+    <string name="variety">प्रकार</string>
+    <string name="price">किंमत</string>
+    <string name="quantity">प्रमाण</string>
+    <string name="crop_data">पीक डेटा</string>
+    <string name="upload_image">प्रतिमा अपलोड करा</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="submit">सादर करा</string>
+    <string name="update">अद्यतनित करा</string>
+    <string name="remoge">काढून टाका</string>
+    <string name="recently_added">अलीकडे जोडलेले</string>
+    <string name="schemes">योजना</string>
+    <string name="read_more">पुढे वाचा</string>
+
+
+    <string name="recommended_treatment_is">शिफारस केलेला उपचार आहे</string>
+    <string name="recommended_precautions_are">शिफारस केलेली काळजी आहे</string>
+    <string name="here_is_description">येथे वर्णन दिले आहे</string>
+    <string name="the_predicted_disease_is">अंदाज केलेला रोग आहे</string>
+    <string name="click_photo">फोटो घ्या</string>
+
+
+    <string name="just_now">आत्ताच</string>
+    <string name="m_ago">मिनिटांपूर्वी</string>
+    <string name="d_ago">दिवसांपूर्वी</string>
+    <string name="h_ago">तासांपूर्वी</string>
+    <string name="you">तुम्ही</string>
+    <string name="krishi_dost">कृषी दोस्त</string>
+    <string name="feedback">तुमचा अनुभव (अभिप्राय)</string>
+
+
+    <string name="feedback_description">तुम्हाला काय आवडले आणि काय सुधारले पाहिजे</string>
+    <string name="feedback_improvement">काय सुधारले जाऊ शकते?</string>
+    <string name="feedback_issues">या ॲपमध्ये काही समस्या आहे का?</string>
+    <string name="feedback_rating">तुमच्या अनुभवाला रेटिंग द्या.</string>
+    <string name="feedback_good">चांगले</string>
+    <string name="feedback_bad">वाईट</string>
+    <string name="feedback_avg">ठीक आहे</string>
+    <string name="feedback_empty">अभिप्राय रिकामा आहे</string>
+    <string name="feedback_select_rating">तुमचे रेटिंग निवडा</string>
+
+
+    <string name="sandy_soil">वाळु मिश्रित</string>
+    <string name="loamy_soil">गाळाची</string>
+    <string name="clayed_soil">चिकण</string>
+    <string name="black_soil">काळी</string>
+    <string name="red_soil">लाल</string>
+
+
+    <string name="low_moistured">कमी ओलावा</string>
+    <string name="medium_moistured">मध्यम ओलावा</string>
+    <string name="high_moistured">जास्त ओलावा</string>
+
+
+    <string name="legumes">शेंगा (डाळी, सोयाबीन)</string>
+    <string name="cereals">तृणधान्ये (भात, गहू, मका)</string>
+    <string name="oil_seeds">तेल बियाणे</string>
+    <string name="others">इतर</string>
+
+    <string name="which_type_of_soil">तुमच्या शेतात कोणत्या प्रकारची माती आहे?</string>
+    <string name="next">पुढील</string>
+    <string name="prev">मागील</string>
+
+    <string name="how_wet_your_soil_is">तुमच्या शेतातील माती किती ओली आहे?</string>
+    <string name="yes">होय</string>
+    <string name="no">नाही</string>
+
+    <string name="previous_crop">या शेतात तुम्ही यापूर्वी कोणते पीक घेतले होते?</string>
+    <string name="manure_compost">तुम्ही शेणखत/कंपोस्ट वापरता का?</string>
+    <string name="rainfed">पावसावर आधारित</string>
+    <string name="canal">कालवा</string>
+    <string name="borewell">बोरवेल</string>
+
+    <string name="irrigation_type">तुम्ही कोणत्या प्रकारची सिंचन वापरता?</string>
+    <string name="low">कमी</string>
+
+    <string name="medium">मध्यम</string>
+    <string name="high">जास्त</string>
+
+    <string name="rain_fall_level">तुमच्या भागात पावसाचे प्रमाण किती आहे?</string>
+    <string name="current_crop_type">तुम्ही सध्या कोणते पीक घेत आहात?</string>
+    <string name="recommend">शिफारस करा</string>
+    <string name="maize">मका</string>
+    <string name="wheat">गहू</string>
+    <string name="rice">भात</string>
+
+    <string name="fertilizer_recommendation">खताची शिफारस</string>
+    <string name="crop_recommendation">तुमच्यासाठी सुचवलेली पिके</string>
+</resources>

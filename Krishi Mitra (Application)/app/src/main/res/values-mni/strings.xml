@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">ꯂꯧ ꯑꯣꯏꯕꯥ ꯃꯤꯠꯔ</string>
+    <string name="mobile_no">ꯃꯣꯕꯥꯏꯜ ꯅꯝꯕꯔ</string>
+    <string name="language">ꯃꯩꯇꯩꯂꯣꯟ</string>
+    <string name="name">ꯃꯤꯡ</string>
+    <string name="state">ꯁꯔꯀꯥꯔꯤ ꯔꯥꯖ꯭ꯌ</string>
+    <string name="district">ꯂꯝꯇꯥꯕꯥ</string>
+    <string name="pin_no">ꯄꯤꯟ ꯅꯝꯕꯔ</string>
+    <string name="village">ꯈꯨꯟ</string>
+    <string name="login">ꯂꯣꯒꯤꯟ ꯇꯧ</string>
+    <string name="signup">ꯁꯥꯏꯟ ꯑꯞ ꯇꯧ</string>
+    <string name="already_have_account">ꯃꯥꯡꯗꯥ ꯑꯦꯀꯥꯎꯟꯇ ꯑꯃꯥ ꯂꯩꯕ꯭ꯔꯥ?</string>
+    <string name="dont_have_account">ꯑꯦꯀꯥꯎꯟꯇ ꯑꯃꯥ ꯂꯩꯇ꯭ꯔꯥ?</string>
+    <string name="welcome">ꯇꯔꯨ ꯁꯤꯟꯅꯕꯥ</string>
+    <string name="enter_mobile">ꯃꯣꯕꯥꯏꯜ ꯅꯝꯕꯔ ꯍꯥꯞꯄꯤꯌꯨ</string>
+    <string name="enter_name">ꯃꯤꯡ ꯍꯥꯞꯄꯤꯌꯨ</string>
+    <string name="otp_sent">OTP ꯊꯥꯔꯛꯈ꯭ꯔꯦ</string>
+    <string name="verify_otp">OTP ꯆꯦꯛ ꯇꯧ</string>
+    <string name="resend_otp">OTP ꯑꯃꯨꯛ ꯊꯥꯔꯛꯑꯣ</string>
+    <string name="logout">ꯂꯣꯒꯥꯎꯠ ꯇꯧ</string>
+
+
+    <string name="error_invalid_mobile">ꯑꯇꯣꯞꯄꯥ ꯃꯣꯕꯥꯏꯜ ꯅꯝꯕꯔ</string>
+    <string name="error_invalid_otp">ꯑꯇꯣꯞꯄꯥ OTP</string>
+    <string name="error_required">ꯑꯁꯤ ꯀꯥꯟꯅꯧꯔꯤ ꯆꯥꯎꯔꯦ</string>
+    <string name="no_internet">ꯏꯟꯇꯔꯅꯦꯠ ꯆꯤꯡ ꯃꯥꯟꯗꯦ</string>
+    <string name="try_again">ꯀ꯭ꯔꯤꯄꯥ ꯇꯧꯕꯤꯌꯨ, ꯑꯃꯨꯛ ꯍꯦꯟꯅꯥ ꯆꯦꯛ ꯇꯧ</string>
+    <string name="welcome_user">ꯇꯔꯨ ꯁꯤꯟꯅꯕꯥ, %1$s!</string>
+
+    <string name="password">ꯄꯥꯁꯋꯥꯔꯗ</string>
+    <string name="email">ꯏꯃꯦꯏꯜ</string>
+    <string name="create">ꯁꯦꯝꯃꯨ</string>
+
+
+    <string name="enter_a_valid_gmail_address">ꯃꯥꯟꯅꯕꯥ ꯖꯤꯃꯦꯜ ꯑꯦꯗ꯭ꯔꯦꯁ ꯑꯃꯥ ꯍꯥꯞꯄꯤꯌꯨ</string>
+    <string name="password_must_be_8_characters_long">ꯄꯥꯁꯋꯥꯔꯗ ꯑꯁꯤ ꯑꯀꯥꯟ 8 ꯑꯃꯨꯛ ꯍꯦꯟꯅꯥ ꯁꯥꯡꯗꯣꯛꯄꯤꯌꯨ</string>
+
+    <string name="crops">ꯂꯧ ꯑꯣꯏꯕꯥ</string>
+    <string name="fruits">ꯊꯧꯔꯨꯔꯥ</string>
+    <string name="grains">ꯐꯥꯎ</string>
+    <string name="pulses">ꯍ꯭ꯔꯤ ꯂꯧ</string>
+    <string name="oilseeds">ꯃꯔꯨ ꯂꯧ</string>
+    <string name="spices">ꯃꯁꯥꯂꯥ</string>
+    <string name="cash_crops">ꯄꯩꯁꯥ ꯂꯧ</string>
+    <string name="plantation_crops">ꯂꯧ ꯊꯥꯡꯖꯤꯟꯕꯥ</string>
+    <string name="fodder_crops">ꯅꯃꯥꯏ ꯂꯧ</string>
+
+    <string name="krishi_bazar">ꯂꯧ ꯑꯣꯏꯕꯥ ꯕꯥꯖꯥꯔ</string>
+    <string name="search_for_crops">ꯂꯧ ꯑꯣꯏꯕꯥ ꯊꯤꯗꯣꯛꯄꯥ</string>
+
+
+    <string name="disease_prediction">ꯅꯥ ꯆꯦꯛ ꯇꯧꯕꯥ</string>
+    <string name="mandi_price">ꯃꯟꯗꯤꯒꯤ ꯃꯣꯜ</string>
+    <string name="agri_news">ꯂꯧ ꯑꯣꯏꯕꯥ ꯈꯕꯔ</string>
+    <string name="predict">ꯆꯦꯛ ꯇꯧ</string>
+    <string name="disease">ꯅꯥ</string>
+    <string name="confidence">ꯊꯖꯕꯥ</string>
+    <string name="description">ꯏꯕꯥ</string>
+    <string name="treatement">ꯍꯀꯆꯥꯡ ꯐꯥꯎꯕꯥ</string>
+    <string name="precautions">ꯁꯥꯕꯥꯏꯗꯥ ꯂꯩꯕꯥ</string>
+    <string name="search_crops">ꯂꯧ ꯑꯣꯏꯕꯥ ꯊꯤꯗꯣꯛꯄꯥ</string>
+    <string name="buy">ꯂꯣꯟꯅꯕꯥ</string>
+    <string name="sell">ꯌꯣꯟꯅꯕꯥ</string>
+    <string name="variety">ꯀꯝꯖꯦꯠ</string>
+    <string name="price">ꯃꯣꯜ</string>
+    <string name="quantity">ꯃꯤꯀꯨꯟ</string>
+    <string name="crop_data">ꯂꯧ ꯑꯣꯏꯕꯥ ꯏꯕꯥ</string>
+    <string name="upload_image">ꯐꯣꯇꯣ ꯑꯞꯂꯣꯗ ꯇꯧ</string>
+    <string name="cancel">ꯀꯦꯟꯁꯦꯜ ꯇꯧ</string>
+    <string name="submit">ꯍꯥꯞꯄꯤꯌꯨ</string>
+    <string name="update">ꯑꯞꯗꯦꯠ ꯇꯧ</string>
+    <string name="remoge">ꯂꯣꯠꯁꯤꯟꯖꯧ</string>
+    <string name="recently_added">ꯍꯧꯖꯤꯛ ꯍꯧꯖꯤꯛ ꯍꯥꯞꯆꯤꯟꯈ꯭ꯔꯦ</string>
+    <string name="schemes">ꯁꯔꯀꯥꯔꯤ ꯌꯣꯖꯅꯥ</string>
+    <string name="read_more">ꯑꯃꯨꯛ ꯍꯦꯟꯅꯥ ꯄꯥꯕꯥ</string>
+
+
+    <string name="recommended_treatment_is">ꯁꯨꯖꯦꯁꯟ ꯇꯧꯕꯥ ꯍꯀꯆꯥꯡ ꯐꯥꯎꯕꯥ ꯑꯁꯤ</string>
+    <string name="recommended_precautions_are">ꯁꯨꯖꯦꯁꯟ ꯇꯧꯕꯥ ꯁꯥꯕꯥꯏꯗꯥ ꯂꯩꯕꯥ ꯑꯁꯤ</string>
+    <string name="here_is_description">ꯑꯁꯤ ꯏꯕꯥ ꯑꯁꯤꯅꯤ</string>
+    <string name="the_predicted_disease_is">ꯆꯦꯛ ꯇꯧꯕꯥ ꯅꯥ ꯑꯁꯤ</string>
+    <string name="click_photo">ꯐꯣꯇꯣ ꯀ꯭ꯂꯤꯛ ꯇꯧ</string>
+
+
+    <string name="just_now">ꯍꯧꯖꯤꯛ</string>
+    <string name="m_ago">ꯃꯤꯅꯤꯠ ꯃꯥꯡꯗꯥ</string>
+    <string name="d_ago">ꯅꯨꯃꯤꯠ ꯃꯥꯡꯗꯥ</string>
+    <string name="h_ago">ꯄꯨꯡ ꯃꯥꯡꯗꯥ</string>
+    <string name="you">ꯅꯪ</string>
+    <string name="krishi_dost">ꯂꯧ ꯑꯣꯏꯕꯥ ꯗꯣꯁꯇ</string>
+    <string name="feedback">ꯅꯪꯒꯤ ꯑꯅꯨꯕꯥ (ꯐꯤꯗꯕꯦꯛ)</string>
+
+
+    <string name="feedback_description">ꯅꯪꯅꯥ ꯀꯔꯤ ꯄꯥꯝꯃꯤ ꯑꯃꯁꯨꯡ ꯀꯔꯤ ꯐꯖꯅꯥ ꯇꯧꯒꯅꯤ</string>
+    <string name="feedback_improvement">ꯀꯔꯤ ꯐꯖꯅꯥ ꯇꯧꯕꯥ ꯌꯥꯒꯅꯤ?</string>
+    <string name="feedback_issues">ꯑꯁꯤꯒꯤ ꯑꯦꯞ ꯑꯁꯤꯗꯥ ꯑꯁꯤꯅꯤ ꯑꯃꯥ ꯂꯩꯕ꯭ꯔꯥ?</string>
+    <string name="feedback_rating">ꯅꯪꯒꯤ ꯑꯅꯨꯕꯥ ꯔꯦꯇ ꯇꯧ꯫</string>
+    <string name="feedback_good">ꯐꯕꯥ</string>
+    <string name="feedback_bad">ꯑꯐꯕꯥ ꯃꯥꯟꯗꯦ</string>
+    <string name="feedback_avg">ꯇꯧ</string>
+    <string name="feedback_empty">ꯐꯤꯗꯕꯦꯛ ꯑꯁꯤ ꯂꯩꯇꯦ</string>
+    <string name="feedback_select_rating">ꯅꯪꯒꯤ ꯔꯦꯇꯤꯡ ꯈꯟꯅꯕꯥ</string>
+
+
+    <string name="sandy_soil">ꯁꯥꯟꯗꯤ</string>
+    <string name="loamy_soil">ꯂꯣꯃꯤ</string>
+    <string name="clayed_soil">ꯀ꯭ꯂꯦꯏ</string>
+    <string name="black_soil">ꯑꯃꯨꯕꯥ</string>
+    <string name="red_soil">ꯑꯉꯥꯡꯕꯥ</string>
+
+
+    <string name="low_moistured">ꯈꯔꯥ ꯇꯥꯕꯥ</string>
+    <string name="medium_moistured">ꯃꯔꯝ ꯇꯥꯕꯥ</string>
+    <string name="high_moistured">ꯑꯇꯣꯞꯄꯥ ꯇꯥꯕꯥ</string>
+
+
+    <string name="legumes">ꯍ꯭ꯔꯤ ꯂꯧ (ꯐꯥꯎ, ꯁꯣꯌꯥꯕꯤꯟ)</string>
+    <string name="cereals">ꯐꯥꯎ (ꯇꯥ ꯐꯥꯎ, ꯒꯣꯝ, ꯃꯀꯥꯏ)</string>
+    <string name="oil_seeds">ꯃꯔꯨ ꯂꯧ</string>
+    <string name="others">ꯑꯇꯣꯞꯄꯥ</string>
+
+    <string name="which_type_of_soil">ꯅꯪꯒꯤ ꯂꯧꯒꯤ ꯂꯝꯃꯤꯠꯇꯥ ꯀꯔꯤ ꯃꯤꯠ ꯂꯩꯕꯥ?</string>
+    <string name="next">ꯃꯇꯨꯡꯗꯥ</string>
+    <string name="prev">ꯃꯥꯡꯗꯥ</string>
+
+    <string name="how_wet_your_soil_is">ꯅꯪꯒꯤ ꯂꯧꯒꯤ ꯂꯝꯃꯤꯠ ꯑꯁꯤ ꯀꯩꯊꯧ ꯍꯦꯟꯅꯥ ꯇꯥꯕꯥ?</string>
+    <string name="yes">ꯍꯣꯏ</string>
+    <string name="no">ꯅꯠꯇꯦ</string>
+
+    <string name="previous_crop">ꯅꯪꯅꯥ ꯑꯁꯤꯒꯤ ꯂꯧ ꯑꯁꯤꯗꯥ ꯃꯥꯡꯗꯥ ꯀꯔꯤ ꯂꯧ ꯑꯣꯏꯕꯥ ꯇꯧꯈ꯭ꯔꯦ?</string>
+    <string name="manure_compost">ꯅꯪꯅꯥ ꯐꯥꯔꯝꯌꯥꯔꯗ ꯃꯦꯅꯨꯑꯔ/ꯀꯝꯄꯣꯁꯠ ꯁꯤꯖꯤꯟꯅꯕ꯭ꯔꯥ?</string>
+    <string name="rainfed">ꯅꯣꯡ ꯈꯤꯠ ꯆꯠꯄꯥ</string>
+    <string name="canal">ꯀꯥꯟꯅꯥꯜ</string>
+    <string name="borewell">ꯕꯣꯔꯋꯦꯜ</string>
+
+    <string name="irrigation_type">ꯅꯪꯅꯥ ꯀꯔꯤ ꯏꯔꯤꯒꯦꯁꯟ ꯁꯤꯖꯤꯟꯅꯩ?</string>
+    <string name="low">ꯈꯔꯥ</string>
+
+    <string name="medium">ꯃꯔꯝ</string>
+    <string name="high">ꯑꯇꯣꯞꯄꯥ</string>
+
+    <string name="rain_fall_level">ꯅꯪꯒꯤ ꯃꯐꯝ ꯑꯁꯤꯗꯥ ꯅꯣꯡ ꯆꯨꯞꯄꯒꯤ ꯂꯦꯚꯦꯜ ꯀꯔꯤꯅꯣ?</string>
+    <string name="current_crop_type">ꯅꯪꯅꯥ ꯍꯧꯖꯤꯛ ꯀꯔꯤ ꯂꯧ ꯑꯣꯏꯕꯥ ꯇꯧꯕꯥ?</string>
+    <string name="recommend">ꯁꯨꯖꯦꯁꯟ ꯇꯧ</string>
+    <string name="maize">ꯃꯀꯥꯏ</string>
+    <string name="wheat">ꯒꯣꯝ</string>
+    <string name="rice">ꯇꯥ ꯐꯥꯎ</string>
+
+    <string name="fertilizer_recommendation">ꯐꯔꯇꯤꯂꯥꯏꯖꯔ ꯁꯨꯖꯦꯁꯟ</string>
+    <string name="crop_recommendation">ꯅꯪꯒꯤꯗꯃꯛ ꯁꯨꯖꯦꯁꯟ ꯇꯧꯕꯥ ꯂꯧ ꯑꯣꯏꯕꯥ</string>
+</resources>

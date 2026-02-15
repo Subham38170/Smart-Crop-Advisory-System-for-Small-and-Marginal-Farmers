@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+
+    <string name="app_name">விவசாய நண்பன்</string>
+    <string name="mobile_no">கைப்பேசி எண்</string>
+    <string name="language">தமிழ்</string>
+    <string name="name">பெயர்</string>
+    <string name="state">மாநிலம்</string>
+    <string name="district">மாவட்டம்</string>
+    <string name="pin_no">பின்கோடு எண்</string>
+    <string name="village">கிராமம்</string>
+    <string name="login">உள்நுழைக</string>
+    <string name="signup">பதிவு செய்க</string>
+    <string name="already_have_account">உங்களிடம் ஏற்கனவே கணக்கு உள்ளதா?</string>
+    <string name="dont_have_account">கணக்கு இல்லையா?</string>
+    <string name="welcome">வரவேற்கிறோம்</string>
+    <string name="enter_mobile">கைப்பேசி எண்ணை உள்ளிடவும்</string>
+    <string name="enter_name">பெயரை உள்ளிடவும்</string>
+    <string name="otp_sent">ஒருமுறை கடவுச்சொல் (OTP) அனுப்பப்பட்டது</string>
+    <string name="verify_otp">ஒருமுறை கடவுச்சொல்லை (OTP) சரிபார்க்கவும்</string>
+    <string name="resend_otp">ஒருமுறை கடவுச்சொல்லை (OTP) மீண்டும் அனுப்பவும்</string>
+    <string name="logout">வெளியேறு</string>
+
+
+    <string name="error_invalid_mobile">தவறான கைப்பேசி எண்</string>
+    <string name="error_invalid_otp">தவறான ஒருமுறை கடவுச்சொல் (OTP)</string>
+    <string name="error_required">இந்த புலம் அவசியம்</string>
+    <string name="no_internet">இணைய இணைப்பு இல்லை</string>
+    <string name="try_again">மீண்டும் முயற்சி செய்யவும்</string>
+    <string name="welcome_user">வரவேற்கிறோம், %1$s!</string>
+
+    <string name="password">கடவுச்சொல்</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="create">உருவாக்குக</string>
+
+
+    <string name="enter_a_valid_gmail_address">ஒரு சரியான ஜிமெயில் முகவரியை உள்ளிடவும்</string>
+    <string name="password_must_be_8_characters_long">கடவுச்சொல் 8 எழுத்துகள் நீளமாக இருக்க வேண்டும்</string>
+
+    <string name="crops">பயிர்கள்</string>
+    <string name="fruits">பழங்கள்</string>
+    <string name="grains">தானியங்கள்</string>
+    <string name="pulses">பருப்பு வகைகள்</string>
+    <string name="oilseeds">எண்ணெய் வித்துக்கள்</string>
+    <string name="spices">மசாலாப் பொருட்கள்</string>
+    <string name="cash_crops">பணப்பயிர்கள்</string>
+    <string name="plantation_crops">தோட்டப் பயிர்கள்</string>
+    <string name="fodder_crops">தீவனப் பயிர்கள்</string>
+
+    <string name="krishi_bazar">விவசாய சந்தை</string>
+    <string name="search_for_crops">பயிர்களைத் தேடவும்</string>
+
+
+    <string name="disease_prediction">நோய் கணிப்பு</string>
+    <string name="mandi_price">மண்டி விலை (சந்தைத் விலை)</string>
+    <string name="agri_news">விவசாயச் செய்திகள்</string>
+    <string name="predict">கணிக்கவும்</string>
+    <string name="disease">நோய்</string>
+    <string name="confidence">நம்பிக்கை</string>
+    <string name="description">விளக்கம்</string>
+    <string name="treatement">சிகிச்சை</string>
+    <string name="precautions">முன்னெச்சரிக்கைகள்</string>
+    <string name="search_crops">பயிர்களைத் தேடவும்</string>
+    <string name="buy">வாங்கவும்</string>
+    <string name="sell">விற்கவும்</string>
+    <string name="variety">வகை</string>
+    <string name="price">விலை</string>
+    <string name="quantity">அளவு</string>
+    <string name="crop_data">பயிர் தரவு</string>
+    <string name="upload_image">படத்தைப் பதிவேற்றவும்</string>
+    <string name="cancel">ரத்துசெய்</string>
+    <string name="submit">சமர்ப்பிக்கவும்</string>
+    <string name="update">புதுப்பிக்கவும்</string>
+    <string name="remoge">அகற்றவும்</string>
+    <string name="recently_added">சமீபத்தில் சேர்க்கப்பட்டது</string>
+    <string name="schemes">திட்டங்கள்</string>
+    <string name="read_more">மேலும் படிக்க</string>
+
+
+    <string name="recommended_treatment_is">பரிந்துரைக்கப்பட்ட சிகிச்சை</string>
+    <string name="recommended_precautions_are">பரிந்துரைக்கப்பட்ட முன்னெச்சரிக்கைகள்</string>
+    <string name="here_is_description">இதோ விளக்கம்</string>
+    <string name="the_predicted_disease_is">கணிக்கப்பட்ட நோய்</string>
+    <string name="click_photo">புகைப்படம் எடுக்கவும்</string>
+
+
+    <string name="just_now">இப்போதுதான்</string>
+    <string name="m_ago">நிமிடங்களுக்கு முன்</string>
+    <string name="d_ago">நாட்களுக்கு முன்</string>
+    <string name="h_ago">மணிநேரங்களுக்கு முன்</string>
+    <string name="you">நீங்கள்</string>
+    <string name="krishi_dost">விவசாய நண்பன்</string>
+    <string name="feedback">உங்கள் அனுபவம் (கருத்து)</string>
+
+
+    <string name="feedback_description">உங்களுக்கு என்ன பிடித்திருந்தது மற்றும் என்ன மேம்படுத்தப்பட வேண்டும்</string>
+    <string name="feedback_improvement">என்ன மேம்படுத்தப்பட முடியும்?</string>
+    <string name="feedback_issues">இந்த செயலியில் ஏதேனும் சிக்கல்கள் உள்ளதா?</string>
+    <string name="feedback_rating">உங்கள் அனுபவத்திற்கு மதிப்பிடவும்.</string>
+    <string name="feedback_good">நன்று</string>
+    <string name="feedback_bad">மோசம்</string>
+    <string name="feedback_avg">சராசரி</string>
+    <string name="feedback_empty">கருத்து காலியாக உள்ளது</string>
+    <string name="feedback_select_rating">உங்கள் மதிப்பீட்டைத் தேர்ந்தெடுக்கவும்</string>
+
+
+    <string name="sandy_soil">மணல் மண்</string>
+    <string name="loamy_soil">வண்டல் மண்</string>
+    <string name="clayed_soil">களிமண்</string>
+    <string name="black_soil">கருப்பு மண்</string>
+    <string name="red_soil">செம்மண்</string>
+
+
+    <string name="low_moistured">குறைந்த ஈரப்பதம்</string>
+    <string name="medium_moistured">நடுத்தர ஈரப்பதம்</string>
+    <string name="high_moistured">அதிக ஈரப்பதம்</string>
+
+
+    <string name="legumes">பருப்பு வகைகள் (துவரை, சோயாபீன்)</string>
+    <string name="cereals">தானியங்கள் (அரிசி, கோதுமை, மக்காச்சோளம்)</string>
+    <string name="oil_seeds">எண்ணெய் வித்துக்கள்</string>
+    <string name="others">மற்றவை</string>
+
+    <string name="which_type_of_soil">உங்கள் நிலத்தில் எந்த வகையான மண் உள்ளது?</string>
+    <string name="next">அடுத்து</string>
+    <string name="prev">முந்தைய</string>
+
+    <string name="how_wet_your_soil_is">உங்கள் மண் எவ்வளவு ஈரமாக உள்ளது?</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+
+    <string name="previous_crop">இந்த நிலத்தில் நீங்கள் முன்பு என்ன பயிர் செய்தீர்கள்?</string>
+    <string name="manure_compost">நீங்கள் தொழு உரம்/கம்போஸ்ட் பயன்படுத்துகிறீர்களா?</string>
+    <string name="rainfed">மழைநீர் ஆதாரம்</string>
+    <string name="canal">வாய்க்கால்</string>
+    <string name="borewell">ஆழ்துளைக் கிணறு</string>
+
+    <string name="irrigation_type">நீங்கள் எந்த வகையான நீர்ப்பாசனத்தைப் பயன்படுத்துகிறீர்கள்?</string>
+    <string name="low">குறைந்த</string>
+
+    <string name="medium">நடுத்தர</string>
+    <string name="high">அதிக</string>
+
+    <string name="rain_fall_level">உங்கள் பகுதியில் மழைப்பொழிவு அளவு எவ்வளவு?</string>
+    <string name="current_crop_type">நீங்கள் தற்போது என்ன பயிரிடுகிறீர்கள்?</string>
+    <string name="recommend">பரிந்துரைக்கவும்</string>
+    <string name="maize">மக்காச்சோளம்</string>
+    <string name="wheat">கோதுமை</string>
+    <string name="rice">அரிசி (நெல்)</string>
+
+    <string name="fertilizer_recommendation">உரம் பரிந்துரை</string>
+    <string name="crop_recommendation">உங்களுக்காகப் பரிந்துரைக்கப்பட்ட பயிர்கள்</string>
+</resources>
