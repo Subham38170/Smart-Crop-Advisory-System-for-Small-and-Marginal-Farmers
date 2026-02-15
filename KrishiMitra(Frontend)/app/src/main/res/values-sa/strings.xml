@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">कृषिमित्रम्</string>
+    <string name="mobile_no">दूरभाषसङ्ख्या</string>
+    <string name="language">संस्कृतम्</string>
+    <string name="name">नाम</string>
+    <string name="state">राज्यम्</string>
+    <string name="district">मण्डलम्</string>
+    <string name="pin_no">पिन्-सङ्ख्या</string>
+    <string name="village">ग्रामः</string>
+    <string name="login">प्रवेशं करोतु</string>
+    <string name="signup">पञ्जीकरणं करोतु</string>
+    <string name="already_have_account">किं पूर्वमेव भवता/भवत्याः लेखा अस्ति?</string>
+    <string name="dont_have_account">किं लेखा नास्ति?</string>
+    <string name="welcome">सुस्वागतम्</string>
+    <string name="enter_mobile">दूरभाषसङ्ख्यां प्रवेशयतु</string>
+    <string name="enter_name">नाम प्रवेशयतु</string>
+    <string name="otp_sent">ओटीपी (OTP) प्रेषितम्</string>
+    <string name="verify_otp">ओटीपी (OTP) प्रमाणीकुरुत</string>
+    <string name="resend_otp">ओटीपी (OTP) पुनः प्रेषयतु</string>
+    <string name="logout">निष्क्रमणम्</string>
+
+
+    <string name="error_invalid_mobile">अवैध-दूरभाषसङ्ख्या</string>
+    <string name="error_invalid_otp">अवैधः ओटीपी (OTP)</string>
+    <string name="error_required">एतद् क्षेत्रम् आवश्यकम् अस्ति</string>
+    <string name="no_internet">अन्तर्जाल-सम्पर्कः नास्ति</string>
+    <string name="try_again">कृपया पुनः प्रयत्नं करोतु</string>
+    <string name="welcome_user">सुस्वागतम्, %1$s!</string>
+
+    <string name="password">कूटशब्दः</string>
+    <string name="email">ईमेल</string>
+    <string name="create">रचयतु</string>
+
+
+    <string name="enter_a_valid_gmail_address">एकं वैधं जीमेल-पतां प्रवेशयतु</string>
+    <string name="password_must_be_8_characters_long">कूटशब्दः न्यूनतः 8 वर्णानाम् भवेत्</string>
+
+    <string name="crops">सस्यानि</string>
+    <string name="fruits">फलानि</string>
+    <string name="grains">धान्यानि</string>
+    <string name="pulses">द्विदलानि</string>
+    <string name="oilseeds">तैलबीजानि</string>
+    <string name="spices">व्यञ्जनद्रव्याणि</string>
+    <string name="cash_crops">अर्थकारिसस्यानि</string>
+    <string name="plantation_crops">उद्यानसस्यानि</string>
+    <string name="fodder_crops">पशुखाद्यसस्यानि</string>
+
+    <string name="krishi_bazar">कृषिविपणिः</string>
+    <string name="search_for_crops">सस्यान्वेषणं करोतु</string>
+
+
+    <string name="disease_prediction">रोगपूर्वानुमानम्</string>
+    <string name="mandi_price">आपण-मूल्यम्</string>
+    <string name="agri_news">कृषिसमाचारः</string>
+    <string name="predict">पूर्वानुमानं करोतु</string>
+    <string name="disease">रोगः</string>
+    <string name="confidence">विश्वासः</string>
+    <string name="description">विवरणम्</string>
+    <string name="treatement">उपचारः</string>
+    <string name="precautions">सावधानता</string>
+    <string name="search_crops">सस्यान्वेषणं करोतु</string>
+    <string name="buy">क्रीणातु</string>
+    <string name="sell">विक्रीणातु</string>
+    <string name="variety">प्रकारः</string>
+    <string name="price">मूल्यम्</string>
+    <string name="quantity">परिणामः</string>
+    <string name="crop_data">सस्यतथ्यानि</string>
+    <string name="upload_image">प्रतिमां भारयतु</string>
+    <string name="cancel">स्थगयतु</string>
+    <string name="submit">समर्पयतु</string>
+    <string name="update">अद्यतनं करोतु</string>
+    <string name="remoge">निष्कासयतु</string>
+    <string name="recently_added">अचिरात् योजितम्</string>
+    <string name="schemes">योजनाः</string>
+    <string name="read_more">अधिकं पठतु</string>
+
+
+    <string name="recommended_treatment_is">अनुशंसितः उपचारः अस्ति</string>
+    <string name="recommended_precautions_are">अनुशंसिताः सावधानताः सन्ति</string>
+    <string name="here_is_description">अत्र विवरणं दत्तम् अस्ति</string>
+    <string name="the_predicted_disease_is">पूर्वानुमितः रोगः अस्ति </string>
+    <string name="click_photo">चित्रं निष्कासयतु</string>
+
+
+    <string name="just_now">अधुना एव</string>
+    <string name="m_ago">मिनिट् पूर्वम्</string>
+    <string name="d_ago">दिनं पूर्वम्</string>
+    <string name="h_ago">होरा पूर्वम्</string>
+    <string name="you">भवान्/भवती</string>
+    <string name="krishi_dost">कृषिदोस्त</string>
+    <string name="feedback">भवतः/भवत्याः अनुभवः (प्रतिपुष्टिः)</string>
+
+
+    <string name="feedback_description">किं भवते/भवत्यै रोचते स्म तथा च किं सुधारणीयम्</string>
+    <string name="feedback_improvement">किं सुधारयितुं शक्यते?</string>
+    <string name="feedback_issues">किम् एतस्मिन् ऍप् मध्ये काचित् समस्या अस्ति?</string>
+    <string name="feedback_rating">भवतः/भवत्याः अनुभवं मूल्याङ्कनं करोतु।</string>
+    <string name="feedback_good">उत्तमम्</string>
+    <string name="feedback_bad">अधमम्</string>
+    <string name="feedback_avg">मध्यमम्</string>
+    <string name="feedback_empty">प्रतिपुष्टिः रिक्ता अस्ति</string>
+    <string name="feedback_select_rating">भवतः/भवत्याः मूल्याङ्कनं चिनोतु</string>
+
+
+    <string name="sandy_soil">सिकतामय-मृत्तिका</string>
+    <string name="loamy_soil">दोमट-मृत्तिका</string>
+    <string name="clayed_soil">कर्दम-मृत्तिका</string>
+    <string name="black_soil">कृष्ण-मृत्तिका</string>
+    <string name="red_soil">रक्त-मृत्तिका</string>
+
+
+    <string name="low_moistured">न्यून-आर्द्रम्</string>
+    <string name="medium_moistured">मध्यम-आर्द्रम्</string>
+    <string name="high_moistured">अधिक-आर्द्रम्</string>
+
+
+    <string name="legumes">द्विदलानि (चणकः, सोयाबीन्)</string>
+    <string name="cereals">धान्यानि (व्रीहिः, गोधूमः, मक्का)</string>
+    <string name="oil_seeds">तैलबीजानि</string>
+    <string name="others">अन्ये</string>
+
+    <string name="which_type_of_soil">भवतः/भवत्याः क्षेत्रे कस्य प्रकारस्य मृत्तिका अस्ति?</string>
+    <string name="next">अग्रिम</string>
+    <string name="prev">पूर्वम्</string>
+
+    <string name="how_wet_your_soil_is">भवतः/भवत्याः क्षेत्रस्य मृत्तिका कियती आर्द्रा अस्ति?</string>
+    <string name="yes">आम्</string>
+    <string name="no">न</string>
+
+    <string name="previous_crop">एतस्मिन् क्षेत्रे भवता/भवत्या पूर्वं किं सस्यं कृतम् आसीत्?</string>
+    <string name="manure_compost">किं भवान्/भवती गोमय/कम्पोस्ट्-खादं उपयुङ्क्ते?</string>
+    <string name="rainfed">वृष्टि-आधारितम्</string>
+    <string name="canal">नदी-नालिका</string>
+    <string name="borewell">बोरवेल</string>
+
+    <string name="irrigation_type">भवान्/भवती कस्य प्रकारस्य जलसेचनम् उपयुङ्क्ते?</string>
+    <string name="low">न्यून</string>
+
+    <string name="medium">मध्यम</string>
+    <string name="high">अधिक</string>
+
+    <string name="rain_fall_level">भवतः/भवत्याः क्षेत्रे वृष्टेः स्तरः कः अस्ति?</string>
+    <string name="current_crop_type">भवान्/भवती अधुना किं सस्यं वर्धयति?</string>
+    <string name="recommend">अनुशंसनं करोतु</string>
+    <string name="maize">मक्का</string>
+    <string name="wheat">गोधूमः</string>
+    <string name="rice">व्रीहिः</string>
+
+    <string name="fertilizer_recommendation">उर्वरकस्य अनुशंसनम्</string>
+    <string name="crop_recommendation">भवते/भवत्यै अनुशंसितानि सस्यानि</string>
+</resources>

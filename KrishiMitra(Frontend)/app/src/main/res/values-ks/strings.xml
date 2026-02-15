@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">کریشِ مِتٛر</string>
+    <string name="mobile_no">موبایِل نَمبر</string>
+    <string name="language">کٲشُر</string>
+    <string name="name">ناو</string>
+    <string name="state">ریاست</string>
+    <string name="district">ضِلعہٕ</string>
+    <string name="pin_no">پِن نَمبر</string>
+    <string name="village">گام</string>
+    <string name="login">لاگ اِن کرِو</string>
+    <string name="signup">سایِن اَپ کرِو</string>
+    <string name="already_have_account">پۄزِٕ بَنومت چھُکھکھا کھٲتہٕ؟</string>
+    <string name="dont_have_account">کھٲتہٕ نِی؟</string>
+    <string name="welcome">خوش آمِدی</string>
+    <string name="enter_mobile">موبایِل نَمبر دٲخِل کٔرِو</string>
+    <string name="enter_name">ناو دٲخِل کٔرِو</string>
+    <string name="otp_sent">او ٹی پی (OTP) چھُ اؤتھ دِیمِت</string>
+    <string name="verify_otp">او ٹی پی (OTP) پٔژھ کرِو</string>
+    <string name="resend_otp">بۆمۍ او ٹی پی وُتھ دِو</string>
+    <string name="logout">لاگ آوٹ کرِو</string>
+
+
+    <string name="error_invalid_mobile">غلط موبایِل نَمبر</string>
+    <string name="error_invalid_otp">غلط او ٹی پی</string>
+    <string name="error_required">یہِ جایہِ پُر کَرُن چھُ ضۆروٗری</string>
+    <string name="no_internet">کینہہ نِٹ سَنٛجوٗگ نِی</string>
+    <string name="try_again">مُہربٲنی کٔرِتھ بۄمۍ کۄشِش کرِو</string>
+    <string name="welcome_user">خوش آمِدی، %1$s!</string>
+
+    <string name="password">پاسورٛڈ</string>
+    <string name="email">ایمِیٖل</string>
+    <string name="create">بناوِو</string>
+
+
+    <string name="enter_a_valid_gmail_address">اَکھ صٔحیٖح جیمیل پَتہٕ دٲخِل کٔرِو</string>
+    <string name="password_must_be_8_characters_long">پاسورٛڈ ییٚیہِ اَٹھَن اَکِھرَن ہِنٛد آسُن</string>
+
+    <string name="crops">فَسٕل</string>
+    <string name="fruits">مِیُ وٕل</string>
+    <string name="grains">دٲنی زٲتؠ</string>
+    <string name="pulses">دال زٲتؠ</string>
+    <string name="oilseeds">تیل کَو وُنۍ</string>
+    <string name="spices">مَسالہٕ</string>
+    <string name="cash_crops">نۄقدی فَسٕل</string>
+    <string name="plantation_crops">پلانٹیشَن فَسٕل</string>
+    <string name="fodder_crops">گاو کٲس فَسٕل</string>
+
+    <string name="krishi_bazar">کریشِ بازار</string>
+    <string name="search_for_crops">فَسٕل تُلِو</string>
+
+
+    <string name="disease_prediction">بِمارِی ہِنٛز پیش گویی</string>
+    <string name="mandi_price">مَنٛڈی ہِنٛز کِیٖمَت</string>
+    <string name="agri_news">کریشِ خبر</string>
+    <string name="predict">پیش گویی کرِو</string>
+    <string name="disease">بیمٲری</string>
+    <string name="confidence">یٔقیٖن</string>
+    <string name="description">تَفصیٖل</string>
+    <string name="treatement">عِلاج</string>
+    <string name="precautions">اِحتیٲتھ</string>
+    <string name="search_crops">فَسٕل تُلِو</string>
+    <string name="buy">کِنِو</string>
+    <string name="sell">وِچھارِو</string>
+    <string name="variety">قٕسٕم</string>
+    <string name="price">کِیٖمَت</string>
+    <string name="quantity">مِقدار</string>
+    <string name="crop_data">فَسٕلٕچ تَفصیٖل</string>
+    <string name="upload_image">تَصویٖر اپلوڈ کرِو</string>
+    <string name="cancel">مُلتَوی کرِو</string>
+    <string name="submit">جمع کرِو</string>
+    <string name="update">اَپڈیٹ کرِو</string>
+    <string name="remoge">کٔڈِو</string>
+    <string name="recently_added">حٲلیَس مَنٛز شٲمِل</string>
+    <string name="schemes">سَرکٲری یوجِنا</string>
+    <string name="read_more">زیٛادٕ پٔڑِو</string>
+
+
+    <string name="recommended_treatment_is">بَتاومُت عِلاج چھُ</string>
+    <string name="recommended_precautions_are">بَتاومٕتؠ اِحتیٲتھ چھِ</string>
+    <string name="here_is_description">تَفصیٖل چھِ یِتھۍ</string>
+    <string name="the_predicted_disease_is">پیش گویی کَرنہٕ آمٕژ بِمارِی چھِ </string>
+    <string name="click_photo">فوٹو کِلِک کرِو</string>
+
+
+    <string name="just_now">وٲرِ وٲرِ</string>
+    <string name="m_ago">مِنَٹ بَقِی</string>
+    <string name="d_ago">دۄہ بَقِی</string>
+    <string name="h_ago">گَنٛٹہٕ بَقِی</string>
+    <string name="you">تۆہی</string>
+    <string name="krishi_dost">کریشِ دوست</string>
+    <string name="feedback">تُہُنٛد تَجربہٕ (رأیہِ)</string>
+
+
+    <string name="feedback_description">تُہٕنۍ کِیاہ پَسَنٛد کۆرُن تہٕ کِیاہ سُدھارُن چھُ ضۆروٗری</string>
+    <string name="feedback_improvement">کِیاہ یِیہِ سُدھارنہٕ؟</string>
+    <string name="feedback_issues">أسۍ چھِ کینٛہہ مُشکلہٕ اَنٛدَر؟</string>
+    <string name="feedback_rating">تُہُنٛد تَجربہٕ ریٹ کرِو۔</string>
+    <string name="feedback_good">بۄزٕ</string>
+    <string name="feedback_bad">خراب</string>
+    <string name="feedback_avg">ٹھیک</string>
+    <string name="feedback_empty">رأیہِ چھِ خٲلی</string>
+    <string name="feedback_select_rating">تُہُنٛد ریٹِنگ چُنِو</string>
+
+
+    <string name="sandy_soil">سُنۍ</string>
+    <string name="loamy_soil">دومَٹ</string>
+    <string name="clayed_soil">مژٕلِو</string>
+    <string name="black_soil">کُرُن</string>
+    <string name="red_soil">لَعل</string>
+
+
+    <string name="low_moistured">کَم تٔری</string>
+    <string name="medium_moistured">درمیٲنی تٔری</string>
+    <string name="high_moistured">بٔڑؠ تٔری</string>
+
+
+    <string name="legumes">دال زٲتؠ (دٲل، سۄیابین)</string>
+    <string name="cereals">دٲنی زٲتؠ (یۄندُر، گَنٛدِم، مَکہٕ)</string>
+    <string name="oil_seeds">تیل کَو وُنۍ</string>
+    <string name="others">باقی</string>
+
+    <string name="which_type_of_soil">تُہُنٛدس زٔمیٖنِس مَنٛز چھِ کۄنۍ قٕسٕمٕچ مِتؠ؟</string>
+    <string name="next">باقی</string>
+    <string name="prev">پٔتِم</string>
+
+    <string name="how_wet_your_soil_is">تُہُنٛدس زٔمیٖنٕچ مِتؠ چھِ کیٚژاہ ؤژِجۍ؟</string>
+    <string name="yes">یِہِ</string>
+    <string name="no">نِہ</string>
+
+    <string name="previous_crop">یہٕ بۄمۍ چھُکھکھا تُہۍ کۄنۍ فَسٕل کَرِمٕژ اِتِہ؟</string>
+    <string name="manure_compost">چھِوکھکھا تُہۍ گاوکٲس یا کمپوسٹ اِستِمال کران؟</string>
+    <string name="rainfed">وَہرِو مَنج</string>
+    <string name="canal">کٲل</string>
+    <string name="borewell">بوریوَل</string>
+
+    <string name="irrigation_type">کۄنۍ قٕسٕمٕچ آبپٲشی چھِو تُہۍ اِستِمال کران؟</string>
+    <string name="low">کَم</string>
+
+    <string name="medium">درمیٲنی</string>
+    <string name="high">بٔڑؠ</string>
+
+    <string name="rain_fall_level">تُہُنٛدس عَلاقَس مَنٛز چھُ وَہرِو ہُیُنٛد حَد کِیاہ؟</string>
+    <string name="current_crop_type">وۄنِس کۄنۍ فَسٕل چھِو تُہۍ کران؟</string>
+    <string name="recommend">بَتاوِو</string>
+    <string name="maize">مَکہٕ</string>
+    <string name="wheat">گَنٛدِم</string>
+    <string name="rice">یۄندُر</string>
+
+    <string name="fertilizer_recommendation">کھادُک بَت وُن</string>
+    <string name="crop_recommendation">تُہُنٛد خٲطرٕ بَتاومٔتؠ فَسٕل</string>
+</resources>
